@@ -1,2 +1,6 @@
 This is chapter 3 . Initial
  State
+Alpha
+
+
+Changes are made now " BBBBBBBBBBBBBBBBB0000110101010101010101010111111010101010101010"
